@@ -4,6 +4,8 @@
 	[
 		"AngularJS",
 		"AngularJS Snippets",
+		"AutomaticFullscreen",
+		"BoundKeys",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"EditorConfig",
@@ -26,6 +28,7 @@
 		"Pretty JSON",
 		"RemoteCollab",
 		"SuperNavigator",
-		"Terminal"
+		"Terminal",
+		"URLEncode"
 	]
 }

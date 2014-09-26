@@ -13,19 +13,19 @@
 	"copy_with_empty_selection": false,
 	"drag_text": false,
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 13,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"BracketHighlighter",
-		"HexViewer",
 		"Sublimerge Pro",
+		"ColorHighlighter-master",
 		"Vintage",
-		"AngularJS Snippets",
 		"Pretty JSON",
-		"Jasmine BDD",
-		"ColorHighlighter-master"
+		"BracketHighlighter",
+		"AngularJS Snippets",
+		"HexViewer",
+		"Jasmine BDD"
 	],
 	"match_brackets_angle": true,
 	"origami_auto_zoom_on_focus": 0.65,
