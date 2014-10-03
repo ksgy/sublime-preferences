@@ -11,6 +11,7 @@
 		"EditorConfig",
 		"Emmet",
 		"Emmet Css Snippets",
+		"FixMyJS",
 		"Git",
 		"GitDiffHelper",
 		"HexViewer",
@@ -19,6 +20,7 @@
 		"Http Requester",
 		"Javascript Beautify",
 		"JavaScript Snippets",
+		"JSONLint",
 		"LESS",
 		"Markdown Preview",
 		"Marking Changed Rows",
@@ -27,6 +29,7 @@
 		"PowerCursors",
 		"Pretty JSON",
 		"RemoteCollab",
+		"SublimeLinter-json",
 		"SuperNavigator",
 		"Terminal",
 		"URLEncode"

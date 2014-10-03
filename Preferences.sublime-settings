@@ -18,14 +18,14 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Sublimerge Pro",
-		"ColorHighlighter-master",
 		"Vintage",
+		"Sublimerge Pro",
 		"Pretty JSON",
+		"HexViewer",
+		"Jasmine BDD",
 		"BracketHighlighter",
 		"AngularJS Snippets",
-		"HexViewer",
-		"Jasmine BDD"
+		"ColorHighlighter-master"
 	],
 	"match_brackets_angle": true,
 	"origami_auto_zoom_on_focus": 0.65,
